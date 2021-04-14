@@ -77,11 +77,10 @@ WSGI_APPLICATION = 'smart_recipe_book.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'smart_recipe_book',
+        'NAME': 'DJANGO_APP_TEST_DB',
         'USER': 'postgres',
         'PASSWORD': POSTGRES_PASSWD,
         'HOST': 'localhost',
-        'PORT': '',
     }
 }
 

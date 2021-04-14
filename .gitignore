@@ -1,3 +1,4 @@
 smart_recipe_book/all_secret.py
 smart_recipe_book/__pycache__/
 home/__pycache__/
+home/migrations/__pycache__/
