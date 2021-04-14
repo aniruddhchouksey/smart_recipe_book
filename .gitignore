@@ -1,2 +1,3 @@
-./smart_recipe_book/all_secret.py
-./smart_recipe_book/__pycache__/*
+smart_recipe_book/all_secret.py
+smart_recipe_book/__pycache__/
+home/__pycache__/
